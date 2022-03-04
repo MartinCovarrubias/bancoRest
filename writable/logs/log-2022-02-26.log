@@ -1,0 +1,157 @@
+CRITICAL - 2022-02-26 17:08:45 --> min_lenght is not a valid rule.
+#0 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('min_lenght')
+#1 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('apellido', 'apellido', 'Stewart', Array, Array)
+#2 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\Users\joseu\Documents\bancoRest\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(24): CodeIgniter\Model->insert(Object(stdClass))
+#6 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#7 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#8 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#11 {main}
+CRITICAL - 2022-02-26 17:09:08 --> min_lenght is not a valid rule.
+#0 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('min_lenght')
+#1 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('apellido', 'apellido', 'Stewart', Array, Array)
+#2 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\Users\joseu\Documents\bancoRest\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(24): CodeIgniter\Model->insert(Object(stdClass))
+#6 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#7 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#8 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#11 {main}
+CRITICAL - 2022-02-26 17:09:22 --> min_lenght is not a valid rule.
+#0 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('min_lenght')
+#1 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('apellido', 'apellido', 'Stewart', Array, Array)
+#2 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\Users\joseu\Documents\bancoRest\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(24): CodeIgniter\Model->insert(Object(stdClass))
+#6 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#7 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#8 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#11 {main}
+CRITICAL - 2022-02-26 17:09:54 --> min_lenght is not a valid rule.
+#0 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('min_lenght')
+#1 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('apellido', 'apellido', 'Stewart', Array, Array)
+#2 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\Users\joseu\Documents\bancoRest\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(24): CodeIgniter\Model->insert(Object(stdClass))
+#6 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#7 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#8 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#11 {main}
+CRITICAL - 2022-02-26 17:09:57 --> min_lenght is not a valid rule.
+#0 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('min_lenght')
+#1 C:\Users\joseu\Documents\bancoRest\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('apellido', 'apellido', 'Stewart', Array, Array)
+#2 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\Users\joseu\Documents\bancoRest\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(24): CodeIgniter\Model->insert(Object(stdClass))
+#6 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#7 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#8 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#11 {main}
+CRITICAL - 2022-02-26 17:11:26 --> CodeIgniter\Validation\Validation::run(): Argument #1 ($data) must be of type ?array, stdClass given, called in C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php on line 25
+#0 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(25): CodeIgniter\Validation\Validation->run(Object(stdClass), 'cliente')
+#1 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#2 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#6 {main}
+ERROR - 2022-02-26 17:13:42 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+CRITICAL - 2022-02-26 17:13:42 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+#0 C:\Users\joseu\Documents\bancoRest\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\Users\joseu\Documents\bancoRest\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\Users\joseu\Documents\bancoRest\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(16): CodeIgniter\BaseModel->findAll()
+#5 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->index()
+#6 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#7 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#10 {main}
+ERROR - 2022-02-26 17:13:55 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+CRITICAL - 2022-02-26 17:13:55 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+#0 C:\Users\joseu\Documents\bancoRest\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\Users\joseu\Documents\bancoRest\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\Users\joseu\Documents\bancoRest\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\Users\joseu\Documents\bancoRest\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(16): CodeIgniter\BaseModel->findAll()
+#5 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->index()
+#6 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#7 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#10 {main}
+CRITICAL - 2022-02-26 17:18:29 --> Exception::getMessage() expects exactly 0 arguments, 1 given
+#0 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(31): Exception->getMessage('Error al crear ...')
+#1 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#2 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#6 {main}
+CRITICAL - 2022-02-26 17:18:30 --> Exception::getMessage() expects exactly 0 arguments, 1 given
+#0 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(31): Exception->getMessage('Error al crear ...')
+#1 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#2 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#6 {main}
+CRITICAL - 2022-02-26 17:18:53 --> Exception::getMessage() expects exactly 0 arguments, 1 given
+#0 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(31): Exception->getMessage('Error al crear ...')
+#1 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#2 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#6 {main}
+CRITICAL - 2022-02-26 17:18:54 --> Exception::getMessage() expects exactly 0 arguments, 1 given
+#0 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(31): Exception->getMessage('Error al crear ...')
+#1 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#2 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#6 {main}
+CRITICAL - 2022-02-26 17:18:59 --> Exception::getMessage() expects exactly 0 arguments, 1 given
+#0 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(31): Exception->getMessage('Error al crear ...')
+#1 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#2 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#6 {main}
+CRITICAL - 2022-02-26 17:19:02 --> Exception::getMessage() expects exactly 0 arguments, 1 given
+#0 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(31): Exception->getMessage('Error al crear ...')
+#1 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#2 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#6 {main}
+CRITICAL - 2022-02-26 17:19:06 --> Exception::getMessage() expects exactly 0 arguments, 1 given
+#0 C:\Users\joseu\Documents\bancoRest\app\Controllers\API\Clientes.php(31): Exception->getMessage('Error al crear ...')
+#1 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->create()
+#2 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\Users\joseu\Documents\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\joseu\Documents\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\joseu\Documents\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\joseu\\...')
+#6 {main}
